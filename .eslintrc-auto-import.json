@@ -9,7 +9,7 @@
     "Ref": true,
     "VNode": true,
     "asyncComputed": true,
-    "autoResetRef": true,
+    "autoResetRef"~: true,
     "computed": true,
     "computedAsync": true,
     "computedEager": true,
